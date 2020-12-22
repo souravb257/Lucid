@@ -1,0 +1,624 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!--  CSS Linking Here -->
+    <link rel="stylesheet" href="css/style.css">
+     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- owl carosol linking -->
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <!-- font-awesome.min.css Linking Here-->
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;700;900&display=swap" rel="stylesheet">
+
+    <title>Lucid!!</title>
+  </head>
+  <body>
+    <!-- Header section start from here -->
+    <header class="header-section">
+      <div class="menu-section">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+              <a class="navbar-brand" href="index.html">
+                <img src="images/Lucid.png">
+                
+              </a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav t-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Feature</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Testimonial</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Pricing</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                  </li>
+            </div>
+          </div>
+        </nav>
+        
+      </div>
+      <div class="banner">
+       <div class="container">
+         <div class="row">
+           <div class="col-md-12">
+              <div class="inner-banner">
+                <h5>introducing lucid theme</h5>
+                <h2>Carefully crafted and<br>beautiful landing page.</h2>
+                <p>Etiam ullamcorper et turpis eget hendrerit. Praesent varius risus<br> mi, at elementum magna ultricies accumsan. Cras venenatis<br> lacus sed dolor placerat tempus. Morbi blandit at neque ut<br> imperdiet.</p>
+                <div class="inner-btn">
+                  <a href="#" class="btn btn-primary">Download Now</a>
+                  <a href="#" class="btn btn-light">View features</a>
+                </div>
+              </div>
+           </div>
+         </div>
+       </div>
+        
+      </div>
+      
+    </header>
+    <!-- Header section end here -->
+
+    <!-- Feature section start here -->
+    <section class="feature-section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div class="title text-center">
+              <h5>product overview</h5>
+              <h2>List of amazing features</h2>
+              <img src="images/hr.png">
+            </div>
+          </div>
+        </div>
+     <div class="row">
+       <div class="col-md-3">
+          <div class="feature-inner">
+            <div class="inner-circle">
+               <img src="images/f1.png">
+            </div>
+              <h5>Responsive</h5>
+              <p>Fusce fermentum placerat<br> magna ac pharetra. Aliquam<br> euismod elit non ipsum lacinia<br> consectetur.</p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="feature-inner">
+            <div class="inner-circle">
+               <img src="images/f2.png">
+            </div>
+              <h5>Customizable</h5>
+              <p>Fusce fermentum placerat<br> magna ac pharetra. Aliquam<br> euismod elit non ipsum lacinia<br> consectetur.</p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="feature-inner">
+            <div class="inner-circle">
+               <img src="images/f3.png">
+            </div>
+              <h5>Lovely design</h5>
+              <p>Fusce fermentum placerat<br> magna ac pharetra. Aliquam<br> euismod elit non ipsum lacinia<br> consectetur.</p>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <div class="feature-inner">
+            <div class="inner-circle">
+               <img src="images/f4.png">
+            </div>
+              <h5>Mobile Friendly</h5>
+              <p>Fusce fermentum placerat<br> magna ac pharetra. Aliquam<br> euismod elit non ipsum lacinia<br> consectetur.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+      
+    </section>
+
+    <!-- Feature section end here -->
+
+    <!-- About long section start -->
+    <section class="about-long">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6">
+            <img src="images/devices.png">
+          </div>
+          <div class="col-md-6">
+            <div class="title">
+              <h5>dip into the details</h5>
+              <h2>Beautiful on every device</h2>
+              <img src="images/hr.png">
+              <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.<br> Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt<br> auctor a ornare odio. Sed non  mauris vitae erat consequat<br> auctor eu in elit. </p>
+            </div>
+            <div class="content">
+            <p class="icon">
+              <img src="images/Cup.png">Awesome designe<br>
+              <img src="images/Mouse.png">Fully responsive<br>
+              <img src="images/Energy.png">Retina ready<br>
+              <img src="images/Sp.png">Tons of features and easy to use<br>
+            </p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      
+    </section>
+
+
+     <!-- About long section end-->
+
+     <!-- About short section start-->
+     <section class="about-short">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5">
+            <div class="title">
+              <h5>dip into the details</h5>
+              <h2>Super easy to customize</h2>
+              <img src="images/hr.png">
+              <p>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.<br> Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt<br> auctor a ornare odio. Sed non  mauris vitae erat consequat<br> auctor eu in elit. Class aptent taciti sociosqu ad litora torquent<br> per conubia nostra, per inceptos himenaeos.</p>
+            </div>
+          </div>
+            <div class="col-md-7">
+              <img src="images/i5.png" class="i5">
+         </div>
+        </div>
+      </div>
+       
+     </section>
+
+     <!-- About short section end-->
+     <!-- testimonial-section start from here -->
+     <section class="testimonial-section">
+       <div class="container">
+         <div class="row">
+           <div class="col-md-12">
+             <div class="title">
+              <h5>QUALITY HAS ITS PRICE</h5>
+              <h2>Pricing & plans</h2>
+              <img src="images/hr.png">
+            </div>
+           </div>
+         </div>
+         <!-- owl-carusol start here -->
+         <div class="row">
+           <div class="col-md-12">
+             <div class="owl-carousel owl-theme">
+                <div class="item">
+                  <h4>Once upon a time all the Rivers combined to protest against the action of the Sea in making their waters salt. “When we come to you,” said they to the Sea.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl1.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">John Doe</h5>
+                          <p class="card-text"><small class="text-muted">CEO, THE RIVERS COMPANY</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                 <div class="item">
+                  <h4>A shoe is not only a design, but it's a part of your body language, the way you walk. The way you're going to move is quite dictated by your shoes.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl2.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">Dean Winchester</h5>
+                          <p class="card-text"><small class="text-muted">UX DESIGNER, GOOGLE INC.</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                   <div class="item">
+                  <h4>Once upon a time all the Rivers combined to protest against the action of the Sea in making their waters salt. “When we come to you,” said they to the Sea.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl1.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">John Doe</h5>
+                          <p class="card-text"><small class="text-muted">CEO, THE RIVERS COMPANY</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                 <div class="item">
+                  <h4>A shoe is not only a design, but it's a part of your body language, the way you walk. The way you're going to move is quite dictated by your shoes.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl2.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">Dean Winchester</h5>
+                          <p class="card-text"><small class="text-muted">UX DESIGNER, GOOGLE INC.</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                   <div class="item">
+                  <h4>Once upon a time all the Rivers combined to protest against the action of the Sea in making their waters salt. “When we come to you,” said they to the Sea.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl1.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">John Doe</h5>
+                          <p class="card-text"><small class="text-muted">CEO, THE RIVERS COMPANY</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                 <div class="item">
+                  <h4>A shoe is not only a design, but it's a part of your body language, the way you walk. The way you're going to move is quite dictated by your shoes.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl2.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">Dean Winchester</h5>
+                          <p class="card-text"><small class="text-muted">UX DESIGNER, GOOGLE INC.</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                   <div class="item">
+                  <h4>Once upon a time all the Rivers combined to protest against the action of the Sea in making their waters salt. “When we come to you,” said they to the Sea.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl1.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">John Doe</h5>
+                          <p class="card-text"><small class="text-muted">CEO, THE RIVERS COMPANY</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+                 <div class="item">
+                  <h4>A shoe is not only a design, but it's a part of your body language, the way you walk. The way you're going to move is quite dictated by your shoes.</h4>
+                  <div class="card mb-3">
+                    <div class="row g-0">
+                      <div class="col-md-2">
+                        <img src="images/cl2.png" alt="...">
+                      </div>
+                      <div class="col-md-10">
+                        <div class="card-body">
+                          <h5 class="card-title">Dean Winchester</h5>
+                          <p class="card-text"><small class="text-muted">UX DESIGNER, GOOGLE INC.</small></p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+            </div>
+           </div>
+         </div>
+          <!-- owl-carusol end here -->
+       </div>
+     </section>
+     <!-- testimonial-section end here -->
+
+     <!-- Eye catcher section start here -->
+
+     <section class="eye-catcher">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-7">
+            <h3><span>Like what you see?</span> Get this great theme now!</h3>
+          </div>
+          <div class="col-md-5">
+             <div class="inner-btn">
+                  <a href="#" class="btn btn-light">View features</a>
+                  <a href="#" class="btn btn-primary">Download Now</a>
+                 
+             </div>
+          </div>
+        </div>
+      </div>
+       
+     </section>
+
+
+     <!-- Eye catcher section end here -->
+              <!-- Price section start here -->
+              <section class="price-section">
+                <div class="container">
+                  <div class="row">
+                     <div class="col-md-12">
+                       <div class="title">
+                        <h5>QUALITY HAS ITS PRICE</h5>
+                        <h2>Pricing & plans</h2>
+                        <img src="images/hr.png">
+                      </div>
+                     </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-3">
+                      <div class="inner-price">
+                        <div class="price-head">
+                          <h4>Free</h4>
+                        </div>
+                        <div class="prices">
+                          <h1><sup>$</sup>0</h1>
+                          <p>/per month</p>
+                        </div>
+                        <div class="price-body">
+                          <p>Fusce fermentum placerat<br> magna ac pharetra.<br>  Aliquam euismod elit non<br>  ipsum <a href="#">lacinia</a> consectetur.</p>
+                          <a href="#" class="btn btn-info">Order Now</a>
+                        </div>
+                       
+                      </div>
+                    </div>
+                     <div class="col-md-3">
+                      <div class="inner-price">
+                        <div class="price-head">
+                          <h4>personal</h4>
+                        </div>
+                        <div class="prices">
+                          <h1><sup>$</sup>25</h1>
+                          <p>/per month</p>
+                        </div>
+                        <div class="price-body">
+                          <p>Fusce fermentum placerat<br> magna ac pharetra.<br>  Aliquam euismod elit non<br>  ipsum <a href="#">lacinia</a> consectetur.</p>
+                          <a href="#" class="btn btn-info">Order Now</a>
+                        </div>
+                        
+                      </div>
+                    </div>
+                     <div class="col-md-3">
+                      <div class="inner-price">
+                        <div class="price-head">
+                          <h4>buisness</h4>
+                        </div>
+                        <div class="prices">
+                          <h1><sup>$</sup>50</h1>
+                          <p>/per month</p>
+                        </div>
+                        <div class="price-body">
+                          <p>Fusce fermentum placerat<br> magna ac pharetra.<br>  Aliquam euismod elit non<br>  ipsum <a href="#">lacinia</a> consectetur.</p>
+                          <a href="#" class="btn btn-info">Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                     <div class="col-md-3">
+                      <div class="inner-price">
+                        <div class="price-head">
+                          <h4>ultimate</h4>
+                        </div>
+                        <div class="prices">
+                          <h1><sup>$</sup>99</h1>
+                          <p>/per month</p>
+                        </div>
+                        <div class="price-body">
+                          <p>Fusce fermentum placerat<br> magna ac pharetra.<br>  Aliquam euismod elit non<br>  ipsum <a href="#">lacinia</a> consectetur.</p>
+                          <a href="#" class="btn btn-info">Order Now</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <!-- Price section end here -->
+
+              <!-- contact section start -->
+             <section class="contact-section">
+               <div class="container">
+                 <div class="row">
+                   <div class="col-md-12">
+                       <div class="title">
+                        <h5>stay in touch</h5>
+                        <h2>contact  us</h2>
+                        <img src="images/hr.png">
+                      </div>
+                     </div>
+                 </div>
+                 <div class="row">
+                   <div class="col-md-4">
+                     <div class="info">
+                       <a href=""><i class="fa fa-mobile"></i></a>
+                       <p>Phone: (415) 124-5678<br>Fax: (412) 123-8290</p>
+                     </div>
+                   </div>
+                    <div class="col-md-4">
+                     <div class="info">
+                       <a href=""><i class="fa fa-map-marker"></i></a>
+                       <p>1001 Brickell Bay Dr.<br>Suite 1900<br> Miami, FL 33131</p>
+                     </div>
+                   </div>
+                    <div class="col-md-4">
+                     <div class="info">
+                     <a href="">  <i class="fa fa-envelope-o"></i></a>
+                       <p>support@yourname.com</p>
+                     </div>
+                   </div>
+                 </div>
+                 <div class="row">
+                   <div class="col-md-8 md-offset-2">
+                    <form class="main-form">
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <div class="mb-4">
+                            <input type="text" name="" class="form-control" placeholder="NAME *">
+                          </div>
+                          <div class="mb-4">
+                            <input type="email" name="" class="form-control" placeholder="EMAIL *">
+                          </div>
+                          <div class="mb-4">
+                            <input type="text" name="" class="form-control" placeholder="SUBJECT *">
+                          </div>
+                        </div>
+                        <div class="col-sm-6">
+                          <div class="mb-4">
+                            <textarea class="form-controll" placeholder="MESSAGE *"></textarea>
+                          </div>
+                          <div class="mb-4" text-right>
+                            <a href="" class="btn btn-info">send message</a>
+                          </div>
+                        </div>
+                      </div>
+                      
+                    </form>
+                     
+                   </div>
+                 </div>
+               </div>
+             </section>
+
+
+              <!-- contact section end -->
+              <!-- map section start -->
+              <section class="map">
+                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d116911.52380827247!2d90.30252912663776!3d23.694364146719042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755becbb4c48bd5%3A0xd9dfc3c5a175640c!2sKeraniganj!5e0!3m2!1sen!2sbd!4v1608609586352!5m2!1sen!2sbd" width="100%" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>                                             
+                                              
+              </section>
+
+              <!-- map section end -->
+<section class="bottom-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="info">
+           <ul>
+             <li>
+               <a href=""><i class="fa fa-behance"></i></a>
+             </li>
+              <li>
+               <a href=""><i class="fa fa-dribbble"></i></a>
+             </li>
+              <li>
+               <a href=""><i class="fa fa-twitter"></i></a>
+             </li>
+              <li>
+               <a href=""><i class="fa fa-facebook"></i></a>
+             </li>
+              <li>
+               <a href=""><i class="fa fa-linkedin"></i></a>
+             </li>
+           </ul>
+        </div>
+      </div>
+      <div class="title">
+        <p>copyright © 2014 lucid onepage theme</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+      <script src="js/owl.carousel.min.js"></script>
+    <script>
+      $('.owl-carousel').owlCarousel({
+                loop:true,
+                margin:20,
+                nav:false,
+                autoplay:true,
+                autoplayTimeout:5000,
+                responsive:{
+                    0:{
+                        items:1
+                    },
+                    600:{
+                        items:1
+                    },
+                    1000:{
+                        items:2
+                    }
+                }
+            })
+    </script>
+  </body>
+</html>

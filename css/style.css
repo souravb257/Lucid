@@ -1,0 +1,646 @@
+*{
+   padding: 0px;
+   margin: 0px;
+
+}
+body{
+
+	font-family: 'source sans pro', sans-serif ;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'source sans pro', sans-serif ;
+}
+a, a:hover{
+	text-decoration: none;
+	font-family: 'source sans pro', sans-serif ;
+
+}
+/*Header section start here*/
+.header-section{
+ width: 100%;
+ background:url(../images/banner.png);
+ background-size: cover;
+}
+.header-section .menu-section{
+ width: 100%;
+}
+.header-section .menu-section .bg-light{
+  background-color: transparent !important;
+}
+.header-section .menu-section .bg-light .t-auto{
+ margin-left: auto;
+}
+
+.menu-section .navbar-light .navbar-nav .nav-link.active{
+	color: #fff;
+	background:url(../images/hr.png) center bottom no-repeat;
+}
+
+.menu-section .navbar-light .navbar-nav .nav-link{
+	color: #fff;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin: 0px 0px 0px 15px;
+}
+.menu-section .navbar-light .navbar-nav .nav-link:hover, .menu-section .navbar-light .navbar-nav .nav-link:focus{
+	color: #fff;
+	background:url(../images/hr.png) center bottom no-repeat;
+}
+.banner{
+	width: 100%;
+}
+.banner .inner-banner{
+ width: 100%;
+ margin-bottom: 110px;
+}
+.banner .inner-banner h5{
+	color: #008ed6;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-top: 79px;
+}
+.banner .inner-banner h2{
+	color: #fff;
+	font-size: 42px;
+	line-height: 45px;
+	font-weight: 400;
+	letter-spacing: 1px;
+}
+.banner .inner-banner p{
+	color: #999999;
+	font-size: 14px;
+	font-weight: 400;
+	margin: 20px 0px 55px 0px;
+}
+.banner .inner-banner .inner-btn{
+	width: 100%;
+}
+.banner .inner-banner .inner-btn .btn-primary{
+	background-color: #008ed6;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase;
+	border-radius: 3px;
+	padding: 12px 19px 12px 19px;
+	transition: .5s;
+
+}
+.banner .inner-banner .inner-btn .btn-light{
+	color: #999999;
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: 600;
+	border: 1px solid #999999;
+	border-radius: 3px;
+	text-transform: uppercase;
+	margin-left: 15px;
+	padding: 12px 19px 12px 19px;
+	transition: 1s;
+}
+.banner .inner-banner .inner-btn .btn-primary:hover, .banner .inner-banner .inner-btn .btn-primary:focus{
+	background-color: transparent;
+
+}
+.banner .inner-banner .inner-btn .btn-light:hover, .banner .inner-banner .inner-btn .btn-light:focus{
+	background-color: transparent;
+
+}
+/*Header section end here*/
+
+
+/*Feature section start*/
+.feature-section{
+	width: 100%;
+}
+.feature-section .title{
+ width: 100%;
+} 
+.feature-section .title h5{
+	color: #008ed6;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+	margin-top: 50px;
+} 
+.feature-section .title h2{
+	color: #000;
+	font-size: 36px;
+	line-height: 45px;
+	font-weight: 600;
+	letter-spacing: 1px;
+} 
+.feature-inner{
+	width: 100%;
+	padding: 40px 30px;
+	text-align: center;
+
+}
+.feature-inner .inner-circle{
+     width: 90px;
+     height: 90px;
+     line-height: 90px;
+     border-radius: 100%;
+     margin: 0 auto;
+     text-align: center;
+     border:1.5px solid #eee;
+}
+.feature-inner h5{
+	font-size: 18px;
+	font-weight: 400px;
+	color: #000;
+	margin-top: 20px;
+
+}
+.feature-inner p{
+    color: #999999;
+	font-size: 14px;
+}
+					/*About long start*/
+
+.about-long{
+	width: 100%;
+	padding: 80px 0px;
+	border-top: 1px solid #eee;
+}
+.about-long .title{
+  width: 100%;
+  margin-top: 40px;
+}
+.about-long .title h5{
+	color: #008ed6;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.about-long .title h2{
+	color: #000;
+	font-size: 33px;
+	line-height: 40px;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.about-long .title p{
+	color: #999999;
+	font-size: 14px;
+	font-weight: 400;
+	margin-top: 8px;
+}
+.about-long .content{
+	width: 100%;
+}
+.about-long .content .icon{
+	font-size: 15px;
+	font-weight: 600;
+	line-height: 26px;
+	color: #000;
+}
+.about-long .content .icon img{
+  margin-right: 10px;
+  padding-top: 10px;
+}
+
+					/*About long end*/
+
+.about-short{
+	width: 100%;
+	background-color: #f2f2f2;
+	
+}
+.about-short .title{
+	width: 100%;
+	margin-top: 105px;
+}
+.about-short .title h5{
+	color: #008ed6;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+}	
+.about-short .title h2{
+	color: #000;
+	font-size: 33px;
+	line-height: 40px;
+	font-weight: 600;
+	letter-spacing: 1px;
+}	
+.about-short .title p{
+	color: #999999;
+	font-size: 14px;
+	font-weight: 400;
+	margin-top: 8px;
+}	
+.about-short .i5{
+	width: 100%;
+	margin-top: 40px;
+	margin-right: 40px;
+}	
+				/*testimonial section start here*/
+
+
+.testimonial-section{
+	width: 100%;
+	background: url("../images/testi.png") center top no-repeat;
+	background-size: cover;
+}
+.testimonial-section .title{
+  width: 100%;
+  margin-top: 40px;
+  text-align: center;
+}
+.testimonial-section .title h5{
+	color: #008ed6;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.testimonial-section .title h2{
+	color: #fff;
+	font-size: 33px;
+	line-height: 40px;
+	font-weight: 600;
+	letter-spacing: 1px;
+}
+.testimonial-section .owl-carousel .item h4{
+	font-size: 25px;
+	line-height: 35px;
+	font-weight: 300;
+	font-style: italic;
+	color: #fff;
+	margin-top: 70px;
+}
+
+.testimonial-section .owl-carousel .owl-item img{
+	width: 80px;
+	height: 80px;
+	display: block;
+	border-radius: 50%;
+    
+}
+.testimonial-section .owl-carousel .item .card-body{
+	width: 100%;
+	
+}
+.testimonial-section .owl-carousel .item .card {   
+    background-color: transparent;
+    border: none;
+    border-radius: 0px;
+    margin: 31px 0px;
+}
+.testimonial-section .owl-carousel .item .card-title{
+ margin-bottom: 2px;
+ font-size: 14px;
+ color: #fff;
+ font-weight: 500;
+ margin-top: 5px;
+}
+.testimonial-section .owl-carousel .item .text-muted{
+	color: #fff !important;
+	text-transform: uppercase;
+}
+
+.testimonial-section .owl-theme .owl-dots .owl-dot {
+    display: inline-block;
+    zoom: 1;
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+
+
+		/*testimonial section end here*/
+
+				/*Eye catcher section start here*/
+.eye-catcher{
+	width:100%;
+	padding: 40px 0px;
+	background-color: #15141a;
+}
+.eye-catcher h3{
+	color: #fff;
+	font-size: 26px;
+	font-weight: 300;
+	line-height: 38px;
+
+}
+.eye-catcher h3 span{
+	color: #fff;
+	font-size: 26px;
+	font-weight: 700;
+	line-height: 38px;
+}
+.eye-catcher .inner-btn{
+	width: 100%;
+}
+.eye-catcher .inner-btn .btn-primary{
+	background-color: #008ed6;
+	font-size: 14px;
+	font-weight: 600;
+	text-transform: uppercase;
+	border-radius: 3px;
+	padding: 12px 19px 12px 19px;
+	transition: .5s;
+	margin-left: 15px;
+
+}
+.eye-catcher .inner-btn .btn-light{
+	color: #999999;
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: 600;
+	border: 1px solid #999999;
+	border-radius: 3px;
+	text-transform: uppercase;
+	margin-left: 15px;
+	padding: 12px 19px 12px 19px;
+	transition: 1s;
+}
+.eye-catcher .inner-btn .btn-primary:hover, .eye-catcher .inner-btn .btn-primary:focus{
+	background-color: transparent;
+
+}
+.eye-catcher .inner-btn .btn-light:hover, .eye-catcher .inner-btn .btn-light:focus{
+	background-color: #008ed6;
+	color: #fff;
+
+}
+
+
+
+
+				/*Eye catcher section end here*/
+				/*Price section start here*/
+.price-section{
+	width: 100%;
+}
+.price-section .title{
+  width: 100%;
+  margin-top: 40px;
+  text-align: center;
+}
+.price-section .title h5{
+	color: #008ed6;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.price-section .title h2{
+	color: #000;
+	font-size: 33px;
+	line-height: 40px;
+	font-weight: 600;
+	letter-spacing: 1px;
+}				
+.price-section .inner-price{
+	width: 100%;
+	border-radius: 5px;
+	border:1px solid #eee;
+	text-align: center;
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+.price-section .inner-price .price-head{
+ width: 100%;
+ padding: 2px 0px;
+ border-bottom: 1px solid #eee;
+ margin-top:10px;
+}
+.price-section .inner-price .price-head h4{
+	font-size: 22px;
+	font-weight: 700;
+	text-transform: uppercase;
+	
+}
+.price-section .inner-price .prices{
+	width: 100%;
+	padding: 30px 0px;
+	border-bottom: 1px solid #eee;
+}
+.price-section .inner-price .prices h1{
+	font-size: 62px;
+	font-weight: 700;
+	color: #000;
+	margin-bottom: 0px;
+
+}
+.price-section .inner-price .prices h1 sup{
+	top: -0.4em;
+	font-size: 36px;
+	font-weight: 400;
+}
+.price-section .inner-price .prices p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	color: #b4b4b4;
+	margin:-8px 0px 0px;
+
+}
+.price-section .inner-price .price-body{
+   width: 100%;
+   padding: 36px 36px;
+   
+}
+.price-section .inner-price .price-body p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	color: #b4b4b4;
+	margin:-8px 0px 30px;
+}
+.price-section .inner-price .price-body p a{
+   text-decoration: none;
+   color: #44ace1;
+}
+.price-section .inner-price .price-body .btn-info{
+	color: #999999;
+	background-color: transparent;
+	font-size: 14px;
+	font-weight: 600;
+	border: 1px solid #999999;
+	letter-spacing: 1px;
+	border-radius: 3px;
+	text-transform: uppercase;
+	margin-left: 15px;
+	padding: 7px 30px 7px 28px;
+	transition: 1s;
+}
+.price-section .inner-price:hover .price-body .btn-info, .price-section .inner-price .price-body .btn-info:focus{
+	background-color: #008ed6;
+	color: #fff;
+
+}
+.price-section .inner-price:hover .price-head h4{
+  color:  #008ed6;
+}
+.price-section .inner-price:hover .prices{
+	background-color: #008ed6;
+	color: #fff;
+}
+.price-section .inner-price:hover .prices h1{
+	
+	color: #fff;
+}
+.price-section .inner-price:hover .prices h1 sup{
+	
+	color: #fff;
+}
+.price-section .inner-price:hover .prices p{
+	
+	color: #fff;
+}
+      /*Price section end*/
+      /*Contact section start here*/
+.contact-section{
+	width: 100%;
+	padding: 50px 0px;
+	background-color: #ededed;
+}
+.contact-section .title{
+  width: 100%;
+  margin-top: 40px;
+  text-align: center;
+}
+.contact-section .title h5{
+	color: #008ed6;
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.contact-section .title h2{
+	color: #000;
+	font-size: 33px;
+	line-height: 40px;
+	font-weight: 600;
+	letter-spacing: 1px;
+}		
+.contact-section .info{
+	width: 100%;
+	text-align: center;
+	margin-top: 40px;
+}		
+.contact-section .info .fa{
+	font-size: 26px;
+	color: #008ed6;
+	margin-bottom: 5px;
+}
+.contact-section .info p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 400;
+	color: #b4b4b4;
+}
+.main-form{
+	width: 100%;
+	margin-top: 60px;
+	margin: 0px auto -80px;
+	padding-top: 50px;
+    padding-bottom: 16px;
+    padding-left: 47px;
+	background:#15141a;
+	margin-left: 179px;
+	position: relative;
+	z-index: 1;
+
+}
+ .main-form .text-right{
+ 	text-align: right;
+ }
+ .main-form .form-control{
+ 	padding: 12px;
+ 	height: auto;
+ 	background:transparent;
+ 	border:1px solid #333333;
+ 	color: #333333;
+ 	border-radius: 5px;
+ 	font-size: 14px;
+ 	font-weight: 500;
+ }
+  .main-form .form-controll{
+  	height: 189px;
+  	width: 285px;
+  	padding-left: 15px;
+    padding-top: 10px;
+  	background:transparent;
+    border:1px solid #333333;
+  	border-radius: 5px;
+ 	color: #333333;
+ 	font-size: 14px;
+ 	font-weight: 500;
+  }
+  .main-form .btn-info{
+	background-color: #008ed6;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 600;
+	border: 1px solid #999999;
+	border-radius: 3px;
+	text-transform: uppercase;
+	margin-left: 15px;
+	padding:8px 22px 8px 26px;
+	transition: 1s;
+	margin-left: 140px;
+  }
+.main-form .btn-info:hover, .main-form .btn-info:focus{
+	background-color: transparent;
+	color: #fff;
+
+}
+      /*Contact section end here*/
+      /*map section*/
+.map{
+	width: 100%;
+	margin-bottom: -5px;
+}           
+             /*bottom-header start*/
+.bottom-header{
+	width: 100%;
+	background-color: #15141a;
+	padding-top: 39px;
+	padding-bottom: 30px;
+
+}
+.bottom-header .info{
+text-align: center;
+}
+.bottom-header .info ul{
+
+}
+.bottom-header .info ul li{
+	list-style: none;
+	display: inline-block;
+	
+}.bottom-header .info ul li a{
+	
+	text-decoration: none;
+}
+.bottom-header .info ul li a .fa{
+	padding-right: 37px;
+    font-size: 15px;
+    color: #444348;
+    margin-top: 5px;
+    transition: 1s;
+}
+.bottom-header .title{
+	width: 100%;
+}
+.bottom-header .title p{
+	font-size: 12px;
+	font-weight: 500;
+	color: #444348;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 
+}
+.bottom-header .info ul li a .fa:hover, .bottom-header .info ul li a .fa:focus{
+color: #008ed6;
+}
